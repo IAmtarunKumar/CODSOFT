@@ -13,7 +13,7 @@ The landing page is the first thing visitors will see when they access your webs
 - Highlight any special elements, animations, or interactive components.
 
 ### Deploy
-Link :    <a href="https://inspiring-cocada-684dd0.netlify.app/"></a>
+Link :    <a href="https://inspiring-cocada-684dd0.netlify.app/">Landing Page</a>
 
 
 <img src="./Calculator/Screenshot_176.png" alt="">
@@ -30,7 +30,7 @@ The calculator is a tool that allows users to perform mathematical calculations.
 - Describe any advanced features or functionality.
 
 ### Deploy
-Link :    <a href="https://marvelous-parfait-a36e25.netlify.app/"></a>
+Link :    <a href="https://marvelous-parfait-a36e25.netlify.app/">Calculator</a>
 
 <img src="./Portfolio/Screenshot_175.png" alt="">
 
@@ -47,4 +47,4 @@ A portfolio showcases your work, skills, and achievements. It's a collection of 
 - Highlight any interactive elements or features that make your portfolio unique.
 
 ### Deploy
-Link :    <a href="https://inspiring-pie-e758dc.netlify.app/"></a>
+Link :    <a href="https://inspiring-pie-e758dc.netlify.app/">Portfolio</a>
